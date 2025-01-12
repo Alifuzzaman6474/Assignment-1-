@@ -1,0 +1,24 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.navbar2{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    width: 1168px;
+    height: 24px;
+    background-color: rgb(84, 160,84 );
+}
+.banner-container{
+    width: 1280px;
+    height: 560px;
+    border: 0px;
+    background-color: rgb(138, 223, 183);
+    border-radius: 28px;
+}
+main{
+    padding: 0px 160px;
+    justify-content: space-around;
+}
