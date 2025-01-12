@@ -18,7 +18,116 @@
     background-color: rgb(138, 223, 183);
     border-radius: 28px;
 }
+.banner-content{
+    display: flex;
+    justify-content: space-around;
+}
 main{
     padding: 0px 160px;
+    justify-content: space-around;
+}
+.subscribe-container{
+    width: 1280px;
+    height: 560px;
+    border: 0px;
+    background-color: rgb(138, 223, 183);
+    border-radius: 28px;
+}
+.banner-img{
+    width: 474.03px;
+    height: 400px;
+}
+.connect{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.sub-content{
+    padding: 80px;
+    align-items: center;
+}
+header{
+    padding: 160px;
+    justify-content: space-around;
+}
+.box1{
+    display: flex;
+    justify-content: flex-start;
+    text-align: justify;
+    width: 1280px;
+    height: 402px;
+    border: 0px;
+    background-color: rgb(222, 240, 232);
+}
+.box2{
+    display: flex;
+    justify-content: flex-start;
+    text-align: justify;
+    width: 1280px;
+    height: 402px;
+    border: 0px;
+    background-color: rgb(222, 240, 232);
+}
+.btn{
+    padding: 8px;
+    color: rgb(215, 223, 203);
+    border-radius: 8px;
+    background: rgb(59, 145, 59);
+}
+.icon{
+    width: 1280px;
+    height: 150px;
+    border: 0px;
+    background-color: rgb(197, 240, 220);
+    border-radius: 28px;
+}
+.container-vision{
+display: flex;
+justify-content: space-around;
+}
+.block1{
+    height: 325px;
+    width: 410.67px;
+    border-radius: 16px;
+}
+.block2{
+    height: 325px;
+    width: 410.67px;
+    border-radius: 16px;
+}
+.block3{
+    height: 325px;
+    width: 410.67px;
+    border-radius: 16px;
+}
+.Yunus{
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+    width: 1280px;
+    height: 256px;
+    border: 0px;
+    background-color: rgb(222, 240, 223);
+    padding: 48px 24px;
+}
+.pillar{
+    display: flex;
+    justify-content: space-around;
+}
+.btn2{
+    border-radius: 8px;
+    color: black;
+    background: rgb(56, 184, 141);
+    width: 150px;
+}
+.btn-container{
+    width: 1280px;
+    height: 464px;
+    border: 0px;
+    background-color: rgb(217, 235, 227);
+    border-radius: 28px;
+    align-items: center;
+}
+.nation{
+    display: flex;
     justify-content: space-around;
 }
